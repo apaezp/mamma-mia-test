@@ -1,0 +1,29 @@
+.card-title {
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+}
+
+.btn-success {
+  font-family: "Oswald", sans-serif;
+}
+.btn-success:hover {
+  color: #fff;
+  background-color: #0b3722;
+  border-color: #0d3522;
+}
+
+.btn-warning:hover {
+  color: #000;
+  background-color: #d5d069;
+  border-color: #ffc720;
+}
+
+.btn-warning {
+  margin-left: 17%;
+  font-family: "Oswald", sans-serif;
+}
+
+.text-center {
+  color: darkred;
+  font-family: "Oswald", sans-serif;
+}

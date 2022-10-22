@@ -1,0 +1,25 @@
+.card-pizza{
+    width: 90%;
+    margin-top: 5%;
+    font-family: 'Oswald', sans-serif;
+}
+
+.col-md-4 {
+    width: 43%;
+}
+
+.card-bodypizza {
+    margin: -21% 9% 30% 32%;
+    font-family: 'Oswald', sans-serif;
+}
+
+.card-footerpizza {
+    margin: -27% 9% 30% 36%;
+    font-family: 'Oswald', sans-serif;
+}
+
+.card-btnpizza {
+    margin-left: 83%;
+    font-family: 'Oswald', sans-serif;
+    
+}

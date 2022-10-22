@@ -1,0 +1,12 @@
+.header {
+    background: linear-gradient( rgba(9, 93, 87, 0.7), rgba(1, 22, 21, 0.7));
+    background-image: url(https://delice-pizzas.fr/img/02.png);
+    background-size: cover;
+    font-family: 'Oswald', sans-serif;
+}
+
+.titulo, .subtitulo {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
